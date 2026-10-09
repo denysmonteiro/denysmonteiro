@@ -8,10 +8,10 @@
 <h3>Sobre Mim</h3>
 <ul>
   <li>Atualmente atuo com suporte técnico em ambiente hospitalar e sou apaixonado por solucionar problemas.</li>
-  <li>Tenho formação em Publicidade e Propaganda, Data Science e TI. Gosto de atirar para todos os lados e unir diferentes áreas da tecnologia!</li>
-  <li>Desenvolvendo projetos mobile e backend, como a aplicação AuAuMatch.</li>
+  <li>Tenho formação em Publicidade e Propaganda, Data Science e TI. Busco sempre integrar diferentes áreas da tecnologia para criar soluções completas e inovadoras.</li>
+  <li>Desenvolvendo projetos mobile e sistemas fullstack focados em gestão.</li>
   <li>Aprofundando conhecimentos e certificações em Nuvem e Inteligência Artificial com AWS e Oracle.</li>
-  <li>Nas horas vagas, exploro o desenvolvimento de jogos e mecânicas 2D na Unity.</li>
+  <li>Nas horas vagas, exploro o desenvolvimento de jogos em Python e na Unity.</li>
 </ul>
 
 <h3>Minhas Ferramentas e Tecnologias</h3>
@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
@@ -31,9 +32,10 @@
 
 <h3>Projetos em Destaque</h3>
 <ul>
-  <li><b>AuAuMatch:</b> Plataforma focada na adoção de animais de estimação.</li>
-  <li><b>Robo Pagador:</b> Jogo estilo caça-níqueis com temática tecnológica.</li>
-  <li><b>Empreendedorismo:</b> Planeamento de e-commerce voltado para o nicho de tecnologia.</li>
+  <li><b>App Quero Estudar:</b> Aplicação de gestão de estudos desenvolvida em Flutter para organizar cursos e controlar investimentos em educação.</li>
+  <li><b>Sistema de Gestão de Academia:</b> Projeto Fullstack com dashboard interativo desenvolvido para o gerenciamento de alunos e controlo de matrículas.</li>
+  <li><b>Projeto RP:</b> Modelo de site focado em campanhas de doações via PIX para proporcionar dignidade e segurança alimentar.</li>
+  <li><b>Jogo Natal Zumbi:</b> Jogo interativo desenvolvido em Python com a temática Minha Aventura de Natal.</li>
 </ul>
 
 <h3>Contato</h3>
