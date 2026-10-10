@@ -40,7 +40,7 @@
 
 <h3>Contato</h3>
 <p>
-  <a href="LINK_DO_SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/denyswillian/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
